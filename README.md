@@ -1,4 +1,4 @@
-### https://rutvik-redux-todo-app.netlify.app/
+### (http://stackoverflow.com){:target="_blank"}
 
 # Getting Started with Create React App and Redux
 
