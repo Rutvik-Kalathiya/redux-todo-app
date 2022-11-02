@@ -1,4 +1,4 @@
-### Live Preview (http://stackoverflow.com {:target="_blank" rel="noopener"})
+### [Live Preview] (http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 # Getting Started with Create React App and Redux
 
