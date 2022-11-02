@@ -1,4 +1,4 @@
-### [Live Preview](http://stackoverflow.com){:target="_blank" rel="noopener"}
+### Live Demo: [Redux-Todo-App](https://rutvik-redux-todo-app.netlify.app/)
 
 # Getting Started with Create React App and Redux
 
